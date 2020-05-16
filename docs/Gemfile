@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+git_source(:github) {|maurusian.github.io| "https://github.com/#{maurusian.github.io}" }
+
+# gem "rails"
+
+gem "jekyll", "~> 4.0"
