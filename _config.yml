@@ -1,7 +1,7 @@
 theme: jekyll-theme-dinky
 # Where things are
 source              : .
-destination         : ./_site
+destination         : ./maurusian.github.io
 collections_dir     : .
 plugins_dir         : _plugins
 layouts_dir         : _layouts
