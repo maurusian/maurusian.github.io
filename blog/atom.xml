@@ -11,7 +11,7 @@ layout: feed
 	<id>http://maurusian.github.io/blog</id>
 	<author>
 		<name>Maurusian</name>
-		<email>prebirthtime@gmail.com</email>
+		<email>antontheog@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
